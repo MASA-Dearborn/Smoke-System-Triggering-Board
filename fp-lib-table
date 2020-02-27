@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "2 pin Connector")(type KiCad)(uri "C:/Users/jaren/OneDrive/Documents/KiCAD/Pic for smoke sensor/2020-02-20_15-44-46/footprints.pretty")(options "")(descr ""))
+  (lib (name "6 pin Connector")(type KiCad)(uri "C:/Users/jaren/OneDrive/Documents/KiCAD/Pic for smoke sensor/2020-02-20_15-44-46/footprints.pretty")(options "")(descr ""))
+  (lib (name "8 pin Connector")(type KiCad)(uri "C:/Users/jaren/OneDrive/Documents/KiCAD/Pic for smoke sensor/2020-02-20_15-44-46/footprints.pretty")(options "")(descr ""))
+)
