@@ -1,0 +1,12 @@
+Info: Processing component “0.01microF1:/5E505A59:Capacitor_SMD:C_0805_2012Metric”.
+Info: Processing component “0.1microF1:/5E48F17E:Capacitor_SMD:C_0805_2012Metric”.
+Info: Processing component “0.1microF2:/5E48E0AF:Capacitor_SMD:C_0805_2012Metric”.
+Info: Processing component “10kOhms1:/5E4902CD:Resistor_SMD:R_0805_2012Metric”.
+Info: Processing component “1microF1:/5E505430:Capacitor_SMD:C_0805_2012Metric”.
+Info: Processing component “2.2microF1:/5E5060A9:Capacitor_SMD:C_0805_2012Metric”.
+Info: Processing component “280Ohms1:/5E48FA72:Resistor_SMD:R_0805_2012Metric”.
+Info: Processing component “J1:/5E4C1D90:2 pin Connector:1-1123723-2”.
+Info: Processing component “J2:/5E4CF4FF:6 pin Connector:1735446-6”.
+Info: Processing component “J3:/5E4896D7:8 pin Connector:1735446-8”.
+Info: Processing component “U1:/5E45C9E5:Package_SO:SOIC-14_3.9x8.7mm_P1.27mm”.
+Info: Processing component “U2:/5E503A57:Package_TO_SOT_SMD:SOT-23-5”.
